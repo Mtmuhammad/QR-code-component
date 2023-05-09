@@ -1,0 +1,32 @@
+body {
+  background-color: #d6e2f0;
+  font-family: "Outfit", sans-serif;
+}
+
+.row {
+  height: 100vh;
+}
+
+.qr-component {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 19px;
+  box-shadow: 0px 1px 31px -15px rgba(0, 0, 0, 0.38);
+}
+.qr-component-img img {
+  border-radius: 12px;
+}
+.qr-component-info_primary {
+  font-weight: 700;
+  color: #1f3251;
+  font-size: 20px;
+  padding: 0 10px;
+  line-height: 1.25;
+  text-shadow: 0px 0.3px 0.5px rgb(31, 50, 81);
+}
+.qr-component-info_secondary {
+  color: #7b879d;
+  font-size: 15px;
+  padding: 0 10px;
+  line-height: 1.25;
+}/*# sourceMappingURL=index.css.map */
